@@ -15,6 +15,7 @@ Dentro del repositorio hay 4 ramas en donde encontraras todo lo necesario para e
  2. menu -> el menu que se muetra en la calculadora
  3. operaciones_matrices -> las operaciones que se permiten hacer en la calculadora
  4. entrada -> el codigo que permite interactuar con todos los anteriores
+
 Debes descargarlos todos y ponerlos dentro de la carptea "Proyecto_matrices".
 
 PASO 3:
