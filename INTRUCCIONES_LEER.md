@@ -10,8 +10,7 @@ PASO 1:
 Dentro de descargas o en el escritorio crea una nueva carpeta llamada "Proyecto_matrices".
 
 PASO 2:
-Dentro del repositorio hay 4 ramas en donde encontraras todo lo necesario para ejecutar el código
-los archivos son los siguientes:
+Dentro del repositorio hay 4 ramas en donde encontraras todo lo necesario para ejecutar el código, los archivos son los siguientes:
  1. main -> la calculadora para matrices
  2. menu -> el menu que se muetra en la calculadora
  3. operaciones_matrices -> las operaciones que se permiten hacer en la calculadora
